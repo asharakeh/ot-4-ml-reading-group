@@ -4,15 +4,17 @@ OT is now routinely used in many areas of ML, ranging from the theoretical use o
 to the inference of high-dimensional cell trajectories in genomics. This reading group aims to keep participants up 
 to date with the latest research happening in this area.
 
-## Reading Group
+## Logistics
 For Winter 2022 term, meetings will be held weekly on Mondays from 14:00 to 15:00 EST via zoom.
 
-### Logistics
-- [Zoom Link](https://umontreal.zoom.us/j/87115614420?pwd=a3dMR3NIeVNwank0TVU0N05DNGkvZz09).
+- [Zoom Link](https://umontreal.zoom.us/j/87115614420pwd=a3dMR3NIeVNwank0TVU0N05DNGkvZz09).
 - Password will be provided on slack before every meeting.
-- Meetings will be recorded by default. **Presenters can send an email to ali.harakeh@mila.quebec to opt out from being recorded.**
 
-### Schedule
+- Meetings will be recorded by default. Presenters can email ali.harakeh@mila.quebec to opt out from being recorded.
+
+- **Reading Group participates are expected to read each paper beforehand.**
+
+## Schedule
 |   Date   |                         Topic                          |         Presenters         |
 |:--------:|:------------------------------------------------------:|:--------------------------:|
 | 01/17/21 | Introduction to Optimal Transport for Machine Learning | Alex Tong <br/>Ali Harakeh |
@@ -23,8 +25,29 @@ For Winter 2022 term, meetings will be held weekly on Mondays from 14:00 to 15:0
 | 02/21/21 |                           --                           |             --             |
 | 02/28/21 |                           --                           |             --             |
 
-## Suggested Papers
-TBD
+## Paper Presentation Instructions
+
+### Volunteer to Present
+- All participants are encouraged to volunteer to present at the reading group. 
+
+
+- Volunteers can choose a paper from [this](suggested-papers.md) list of suggested papers, or any other paper that is 
+related to optimal transport in machine learning. 
+
+
+- To volunteer, please **send the paper title, link, and your preferred presentation date** the Slack channel 
+`#volunteer-to-present` or email `ali.harakeh@mila.quebec`.
+
+### Presentation Instructions
+- Presentations should be limited to 40 minutes at most. During the presentation, organizers will act as moderators and 
+  will read questions as they come up on the Zoom chat. The aim is to be done in 35-40 min to allow 15 min for general 
+  discussion.
+
+
+- Presentations should roughly adhere to the following outline:
+  1. **5-10 minutes**: Problem setup and position to literature.
+  2. **10-15 minutes**: Contributions/Novel technical points.
+  3. **10-15 minutes**: Weak points, open questions, and future directions.
 
 ## Useful References
 This is a list of useful references including code, text books, and presentations.
@@ -55,6 +78,11 @@ This is a list of useful references including code, text books, and presentation
 ### Workshops and Presentations
 - [NeurIPS 2021 Workshop on Optimal Transport and Machine Learning](https://otml2021.github.io/)
 
+
 ## Organizers
-- Ali Harakeh (ali.harakeh@mila.quebec)
-- Alex Tong (alexander.tong@mila.quebec)
+- Ali Harakeh `ali.harakeh@mila.quebec`
+- Alex Tong `alexander.tong@mila.quebec`
+
+
+Modeled after the [Causal Representation Learning Reading Group
+](https://github.com/csquires/causal-rep-learning-reading-group).
