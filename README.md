@@ -5,7 +5,19 @@ to the inference of high-dimensional cell trajectories in genomics. This reading
 to date with the latest research happening in this area.
 
 ## Schedule
-TBD
+Meetings are held weekly from 14:00 to 15:00 EST via zoom.
+
+Zoom link 
+
+|   Date   |                         Topic                          |         Presenters         |
+|:--------:|:------------------------------------------------------:|:--------------------------:|
+| 01/17/21 | Introduction to Optimal Transport for Machine Learning | Alex Tong <br/>Ali Harakeh |
+| 01/24/21 |                           --                           |             --             |
+| 01/31/21 |                           --                           |             --             |
+| 02/7/21  |                           --                           |             --             |
+| 02/14/21 |                           --                           |             --             |
+| 02/21/21 |                           --                           |             --             |
+| 02/28/21 |                           --                           |             --             |
 
 ## Suggested Papers
 TBD
