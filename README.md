@@ -4,11 +4,15 @@ OT is now routinely used in many areas of ML, ranging from the theoretical use o
 to the inference of high-dimensional cell trajectories in genomics. This reading group aims to keep participants up 
 to date with the latest research happening in this area.
 
-## Schedule
-Meetings are held weekly from 14:00 to 15:00 EST via zoom.
+## Reading Group
+For Winter 2022 term, meetings will be held weekly on Mondays from 14:00 to 15:00 EST via zoom.
 
-Zoom link 
+### Logistics
+- [Zoom Link](https://umontreal.zoom.us/j/87115614420?pwd=a3dMR3NIeVNwank0TVU0N05DNGkvZz09).
+- Password will be provided on slack before every meeting.
+- Meetings will be recorded by default. **Presenters can send an email to ali.harakeh@mila.quebec to opt out from being recorded.**
 
+### Schedule
 |   Date   |                         Topic                          |         Presenters         |
 |:--------:|:------------------------------------------------------:|:--------------------------:|
 | 01/17/21 | Introduction to Optimal Transport for Machine Learning | Alex Tong <br/>Ali Harakeh |
@@ -53,3 +57,4 @@ This is a list of useful references including code, text books, and presentation
 
 ## Organizers
 - Ali Harakeh (ali.harakeh@mila.quebec)
+- Alex Tong (alexander.tong@mila.quebec)
