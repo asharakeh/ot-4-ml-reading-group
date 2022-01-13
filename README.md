@@ -7,7 +7,7 @@ to date with the latest research happening in this area.
 ## Logistics
 For Winter 2022 term, meetings will be held weekly on Mondays from 14:00 to 15:00 EST via zoom.
 
-- [Zoom Link](https://umontreal.zoom.us/j/87115614420pwd=a3dMR3NIeVNwank0TVU0N05DNGkvZz09).
+- [Zoom Link](https://umontreal.zoom.us/j/87115614420?pwd=a3dMR3NIeVNwank0TVU0N05DNGkvZz09).
 - Password will be provided on slack before every meeting.
 
 - Meetings will be recorded by default. Presenters can email ali.harakeh@mila.quebec to opt out from being recorded.
