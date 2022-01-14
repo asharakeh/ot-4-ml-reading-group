@@ -18,7 +18,7 @@ For Winter 2022 term, meetings will be held weekly on Mondays from 14:00 to 15:0
 |   Date   |                         Topic                          |         Presenters         |
 |:--------:|:------------------------------------------------------:|:--------------------------:|
 | 01/17/21 | Introduction to Optimal Transport for Machine Learning | Alex Tong <br/>Ali Harakeh |
-| 01/24/21 |                           --                           |             --             |
+| 01/24/21 |                           TBD                          |  Kilian Fatras             |
 | 01/31/21 |                           --                           |             --             |
 | 02/7/21  |                           --                           |             --             |
 | 02/14/21 |                           --                           |             --             |
