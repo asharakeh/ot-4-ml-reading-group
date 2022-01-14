@@ -15,15 +15,15 @@ For Winter 2022 term, meetings will be held weekly on Mondays from 14:00 to 15:0
 - **Reading Group participates are expected to read each paper beforehand.**
 
 ## Schedule
-|   Date   |                         Topic                          |         Presenters         |
-|:--------:|:------------------------------------------------------:|:--------------------------:|
-| 01/17/21 | Introduction to Optimal Transport for Machine Learning | Alex Tong <br/>Ali Harakeh |
-| 01/24/21 |                           TBD                          |  Kilian Fatras             |
-| 01/31/21 |                           --                           |             --             |
-| 02/7/21  |                           --                           |             --             |
-| 02/14/21 |                           --                           |             --             |
-| 02/21/21 |                           --                           |             --             |
-| 02/28/21 |                           --                           |             --             |
+|   Date   |                         Topic                                               |         Presenters         |        Slides         |
+|:--------:|:---------------------------------------------------------------------------:|:--------------------------:|:--------------------------:|
+| 01/17/21 | Introduction to Optimal Transport for Machine Learning | Alex Tong <br/>Ali Harakeh | -- |
+| 01/24/21 | [Learning with minibatch Wasserstein : asymptotic and gradient properties](http://proceedings.mlr.press/v108/fatras20a.html) |  Kilian Fatras| -- |
+| 01/31/21 |                           --                           |             --             | -- |
+| 02/7/21  |                           --                           |             --             | -- |
+| 02/14/21 |                           --                           |             --             | -- |
+| 02/21/21 |                           --                           |             --             | -- |
+| 02/28/21 |                           --                           |             --             | -- |
 
 ## Paper Presentation Instructions
 
