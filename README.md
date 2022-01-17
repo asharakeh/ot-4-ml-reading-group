@@ -10,14 +10,14 @@ For Winter 2022 term, meetings will be held weekly on Mondays from 14:00 to 15:0
 - [Zoom Link](https://umontreal.zoom.us/j/87115614420?pwd=a3dMR3NIeVNwank0TVU0N05DNGkvZz09).
 - Password will be provided on slack before every meeting.
 
-- Meetings will be recorded by default. Presenters can email ali.harakeh@mila.quebec to opt out from being recorded.
+- Meetings will be recorded by default. Recordings are available to Mila members [**at this link**](https://drive.google.com/drive/folders/1gOGPrxrC6I6nXVokDymq7RVgYeIRU_dv?usp=sharing). Presenters can email ali.harakeh@mila.quebec to opt out from being recorded.
 
 - **Reading Group participates are expected to read each paper beforehand.**
 
 ## Schedule
 |   Date   |                         Topic                                               |         Presenters         |        Slides         |
 |:--------:|:---------------------------------------------------------------------------:|:--------------------------:|:--------------------------:|
-| 01/17/21 | Introduction to Optimal Transport for Machine Learning | Alex Tong <br/>Ali Harakeh | -- |
+| 01/17/21 | Introduction to Optimal Transport for Machine Learning | Alex Tong <br/>Ali Harakeh | [Part 1](https://drive.google.com/file/d/1yeseuB4Sf48q5GOFyrH0ga4vgvvwxnKD/view?usp=sharing) <br/> [Part 2](https://drive.google.com/file/d/1QFySL-HF-fz9hZCUhbzJydnfKrMsPEKF/view?usp=sharing)|
 | 01/24/21 | [Learning with minibatch Wasserstein : asymptotic and gradient properties](http://proceedings.mlr.press/v108/fatras20a.html) |  Kilian Fatras| -- |
 | 01/31/21 |                           --                           |             --             | -- |
 | 02/7/21  |                           --                           |             --             | -- |
