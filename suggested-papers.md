@@ -15,7 +15,7 @@
 # Robotics
 |                                                                       Title                                                                        |                                                            Authors                                                            |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------:|
-|   [Differentiable Particle Filtering via Entropy-Regularized Optimal Transport](http://proceedings.mlr.press/v139/corenflos21a/corenflos21a.pdf)   |                             Adrien Corenflos, James Thornton, George Deligiannidis, Arnaud Doucet                             |
+|   [~~Differentiable Particle Filtering via Entropy-Regularized Optimal Transport~~](http://proceedings.mlr.press/v139/corenflos21a/corenflos21a.pdf)   |                             Adrien Corenflos, James Thornton, George Deligiannidis, Arnaud Doucet                             |
 |                                                                         --                                                                         |                                                              --                                                               |
 |                                                                         --                                                                         |                                                              --                                                               |
 
