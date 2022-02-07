@@ -20,7 +20,7 @@ For Winter 2022 term, meetings will be held weekly on Mondays from 14:00 to 15:0
 | 01/17/21 | Introduction to Optimal Transport for Machine Learning | Alex Tong <br/>Ali Harakeh | [Part 1](https://drive.google.com/file/d/1yeseuB4Sf48q5GOFyrH0ga4vgvvwxnKD/view?usp=sharing) <br/> [Part 2](https://drive.google.com/file/d/1QFySL-HF-fz9hZCUhbzJydnfKrMsPEKF/view?usp=sharing)|
 | 01/24/21 | [Learning with minibatch Wasserstein : asymptotic and gradient properties](http://proceedings.mlr.press/v108/fatras20a.html) |  Kilian Fatras| [Slides](https://drive.google.com/file/d/1NaKzbx4ekJmSI7EaqaOxe5EoguRyapCl/view?usp=sharing) |
 | 01/31/21 |            [Neural Options Pricing](https://arxiv.org/abs/2105.13320)               |             Tim De Lise    | [Slides](https://drive.google.com/file/d/1WIMAI3gcbEvBVS-ATjMyi5uLHvRQw6Vd/view?usp=sharing) |
-| 02/7/21  |                           [Differentiable particle Filtering via entropy-regularized optimal transport](http://proceedings.mlr.press/v139/corenflos21a/corenflos21a.pdf)           |             Ali Harakeh          | -- |
+| 02/7/21  |                           [Differentiable particle Filtering via entropy-regularized optimal transport](http://proceedings.mlr.press/v139/corenflos21a/corenflos21a.pdf)           |             Ali Harakeh          | [Slides](https://drive.google.com/file/d/1crtq1pG9LlLdsdcJMN6JfIQheJ8b-w2a/view?usp=sharing) |
 | 02/14/21 |                           --                           |             --             | -- |
 | 02/21/21 |                           --                           |             --             | -- |
 | 02/28/21 |                           --                           |             --             | -- |
