@@ -9,8 +9,12 @@
 |         [~~Unbalanced minibatch Optimal Transport; applications to Domain Adaptation~~](http://proceedings.mlr.press/v139/fatras21a.html)          |                    Kilian Fatras, Thibault Sejourne, Rémi Flamary, Nicolas Courty                    |
 | [Parallel Optimal Transport GAN](https://openaccess.thecvf.com/content_CVPR_2019/html/Avraham_Parallel_Optimal_Transport_GAN_CVPR_2019_paper.html) |                                  Gil Avraham, Yan Zuo, Tom Drummond                                  |
 |              [Interpolating between Optimal Transport and MMD using Sinkhorn Divergences](http://proceedings.mlr.press/v89/feydy19a)               | Jean Feydy, Thibault Séjourné, François-Xavier Vialard, Shun-ichi Amari, Alain Trouve, Gabriel Peyré |
-|                                                                         --                                                                         |                                                  --                                                  |
-|                                                                         --                                                                         |                                                  --                                                  |
+| [Optimal Transport for Causal Discovery](https://openreview.net/pdf?id=qwBK94cP1y)                                                      | Ruibo Tu, Kun Zhang, Hedvig Kjellstrom, Cheng Zhang |
+ [A fast and accurate splitting method for optimal transport: analysis and implementation](https://openreview.net/pdf?id=fCSq8yrDkc)  |        Vien V. Mai, Jacob Lindbäck, Mikael Johansson |
+|[Lossy Compression with Distribution Shift as Entropy Constrained Optimal Transport](https://openreview.net/pdf?id=BRFWxcZfAdC) | Huan Liu, George Zhang, Jun Chen, Ashish J Khisti   |
+|[Cross-Domain Imitation Learning via Optimal Transport](https://openreview.net/pdf?id=xP3cPq2hQC)     |    Arnaud Fickinger, Samuel Cohen, Stuart Russell, Brandon Amos    |
+| -- | -- |
+| -- | -- |
 
 # Robotics
 |                                                                       Title                                                                        |                                                            Authors                                                            |
@@ -24,6 +28,6 @@
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------:|
 |                                                      [Accurate Point Cloud Registration with Robust Optimal Transport](https://arxiv.org/pdf/2111.00648v1.pdf)                                                      | Zhengyang Shen, Jean Feydy, Peirong Liu, Ariel Hernán Curiale, Ruben San José Estépar, Raúl San José Estépar, Marc Niethammer |
 | [Style Transfer by Relaxed Optimal Transport and Self-Similarity](https://openaccess.thecvf.com/content_CVPR_2019/html/Kolkin_Style_Transfer_by_Relaxed_Optimal_Transport_and_Self-Similarity_CVPR_2019_paper.html) |                                     Nicholas Kolkin, Jason Salavon, Gregory Shakhnarovich                                     |
-|                                                                                                         --                                                                                                          |                                                              --                                                               |
+|             --                                   |                                                              --                                                               |
   |                                                                                                         --                                                                                                          |                                                              --                                                               |
   
