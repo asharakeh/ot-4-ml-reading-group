@@ -22,7 +22,7 @@ For Winter 2022 term, meetings will be held weekly on Mondays from 14:00 to 15:0
 | 01/31/21 |            [Neural Options Pricing](https://arxiv.org/abs/2105.13320)               |             Tim De Lise    | [Slides](https://drive.google.com/file/d/1WIMAI3gcbEvBVS-ATjMyi5uLHvRQw6Vd/view?usp=sharing) |
 | 02/7/21  |                           [Differentiable particle Filtering via entropy-regularized optimal transport](http://proceedings.mlr.press/v139/corenflos21a/corenflos21a.pdf)           |             Ali Harakeh          | [Slides](https://drive.google.com/file/d/1crtq1pG9LlLdsdcJMN6JfIQheJ8b-w2a/view?usp=sharing) |
 | 02/14/21 |       [Convolutional Wasserstein Distances: Efficient Optimal Transportation on Geometric Domains](https://people.csail.mit.edu/jsolomon/assets/convolutional_w2.compressed.pdf)                           |   Alex Tong             | -- |
-| 02/21/21 |                           --                           |             --             | -- |
+| 02/21/21 |                           [Convex Potential Flows: Universal Probability Distributions with Optimal Transport and Convex Optimization](https://arxiv.org/pdf/2012.05942.pdf)                           |             Tim De Lise             | -- |
 | 02/28/21 |                           --                           |             --             | -- |
 
 ## Paper Presentation Instructions
