@@ -25,8 +25,8 @@ For Winter 2022 term, meetings will be held bi-weekly on Mondays from 14:00 to 1
 | 02/21/21 |             [Convex Potential Flows: Universal Probability Distributions with Optimal Transport and Convex Optimization](https://arxiv.org/pdf/2012.05942.pdf)             |        Tim De Lise         |                                                                                               [Slides](https://drive.google.com/file/d/1ID75u5YgFQe1PVcNPX68CsfIiOoKWbNH/view?usp=sharing)                                                                                                |
 | 03/14/21 |                                                                                     [OTA: Optimal Transport Assignment for Object Detection](https://openaccess.thecvf.com/content/CVPR2021/html/Ge_OTA_Optimal_Transport_Assignment_for_Object_Detection_CVPR_2021_paper.html)                                                                                     |              Jordan Hu             |                                                                                              [Slides](https://drive.google.com/file/d/1SCW1AQUqltkLZFLZEqOc5ZuJuIWKoIUH/view?usp=sharing)                                                                                                |
 | 03/28/21 |[Do Neural Optimal Transport Solvers Work? A Continuous Wasserstein-2 Benchmark](https://arxiv.org/abs/2106.01954) |             Ali Harakeh             |  [Slides](https://drive.google.com/file/d/19frMo8kd42lI2C_-nCE50CLlNywB9rwR/view?usp=sharing)  |
-| 04/11/21 | --    |             --             |    --      |
-| 04/25/21 | --    |             --             |     --     |
+| 04/11/21 | [Differentiable Ranks and Sorting using Optimal Transport](https://arxiv.org/abs/1905.11885#:~:text=Abstract%3A%20Sorting%20an%20array%20is,select%20closest%20neighbors%20and%20labels.)    |             Tim De Lise             |    [Slides](https://drive.google.com/file/d/1XQhsmswIsVldH4OK17VBqDfajpLiqVQw/view?usp=sharing)      |
+| 04/25/21 | --    |             Yan Zhang             |     --     |
 
 ## Paper Presentation Instructions
 
