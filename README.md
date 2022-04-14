@@ -28,8 +28,6 @@ For Winter 2022 term, meetings will be held bi-weekly on Mondays from 14:00 to 1
 | 04/11/22 | [Differentiable Ranks and Sorting using Optimal Transport](https://arxiv.org/abs/1905.11885#:~:text=Abstract%3A%20Sorting%20an%20array%20is,select%20closest%20neighbors%20and%20labels.)    |             Tim De Lise             |    [Slides](https://drive.google.com/file/d/1XQhsmswIsVldH4OK17VBqDfajpLiqVQw/view?usp=sharing)      |
 | 04/25/22 | --    |             TBD            |     --     |
 | 05/09/22 | --    |             Yan Zhang             |     --     |
-| 05/09/22 | --    |             --            |     --     |
-| 05/09/22 | --    |             --            |     --     |
 
 ## Paper Presentation Instructions
 
